@@ -1,0 +1,13 @@
+C:\Users\rodri\Documents\Source\Repos\profis\server\Aq.ExpressionJsonSerializer.Portable\bin\Debug\Aq.ExpressionJsonSerializer.Portable.dll
+C:\Users\rodri\Documents\Source\Repos\profis\server\Aq.ExpressionJsonSerializer.Portable\bin\Debug\Aq.ExpressionJsonSerializer.Portable.pdb
+C:\Users\rodri\Documents\Source\Repos\profis\server\Aq.ExpressionJsonSerializer.Portable\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rodri\Documents\Source\Repos\profis\server\Aq.ExpressionJsonSerializer.Portable\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rodri\Documents\Source\Repos\profis\server\Aq.ExpressionJsonSerializer.Portable\obj\Debug\Aq.ExpressionJsonSerializer.Portable.dll
+C:\Users\rodri\Documents\Source\Repos\profis\server\Aq.ExpressionJsonSerializer.Portable\obj\Debug\Aq.ExpressionJsonSerializer.Portable.pdb
+C:\Users\rodri\SynologyDrive\Repos\profis\server\Aq.ExpressionJsonSerializer.Portable\bin\Debug\Aq.ExpressionJsonSerializer.Portable.dll
+C:\Users\rodri\SynologyDrive\Repos\profis\server\Aq.ExpressionJsonSerializer.Portable\bin\Debug\Aq.ExpressionJsonSerializer.Portable.pdb
+C:\Users\rodri\SynologyDrive\Repos\profis\server\Aq.ExpressionJsonSerializer.Portable\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rodri\SynologyDrive\Repos\profis\server\Aq.ExpressionJsonSerializer.Portable\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rodri\SynologyDrive\Repos\profis\server\Aq.ExpressionJsonSerializer.Portable\obj\Debug\Aq.ExpressionJsonSerializer.Portable.dll
+C:\Users\rodri\SynologyDrive\Repos\profis\server\Aq.ExpressionJsonSerializer.Portable\obj\Debug\Aq.ExpressionJsonSerializer.Portable.pdb
+C:\Users\rodri\SynologyDrive\Repos\profis\server\Aq.ExpressionJsonSerializer.Portable\obj\Debug\Aq.ExpressionJsonSerializer.Portable.csprojResolveAssemblyReference.cache
